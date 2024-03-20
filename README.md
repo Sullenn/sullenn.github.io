@@ -1,2 +1,2 @@
 # sullenn.github.io
-testing things
+learning how to use HTML5, CSS3, and Javascript, as well as github's pages function, hopefully something interesting comes out of this.
